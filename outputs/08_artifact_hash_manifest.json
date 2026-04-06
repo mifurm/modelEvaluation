@@ -1,1 +1,5 @@
-{}
+{
+  "data/05_quality_eval.jsonl": "92450f888b2fd5fc9030b243f961ae550d85861926b5570b70f2b4fcd0afd990",
+  "outputs/04_safety_results.json": "ed9e983ad18687babd7de2f2c9e766f3203dd0f7de85df38699cf66b5512f867",
+  "outputs/05_quality_results.json": "3f18cf838c7263aea067187a0a272ba8c8e92c7ab876e20473d26f928b697369"
+}
