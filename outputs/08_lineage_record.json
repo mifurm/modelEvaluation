@@ -1,0 +1,7 @@
+{
+  "mlflow_run_id": "local-seed-run",
+  "model_deployment": "gpt-4o-mini-prod",
+  "dataset_path": "data/05_quality_eval.jsonl",
+  "evaluation_output": "outputs/05_quality_results.json",
+  "code_version": "git:PLACEHOLDER"
+}

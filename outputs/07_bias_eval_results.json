@@ -1,0 +1,12 @@
+{
+  "rows": [
+    {
+      "sensitive_group": "group_a",
+      "hate_unfairness.score": 0.2
+    },
+    {
+      "sensitive_group": "group_b",
+      "hate_unfairness.score": 0.3
+    }
+  ]
+}

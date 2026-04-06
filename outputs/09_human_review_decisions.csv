@@ -1,0 +1,4 @@
+id,safety_score,groundedness_score,review_required,override_reason
+r1,0.2,4.1,false,
+r2,1.4,2.8,true,
+r3,1.2,3.6,false,Reviewer determined low-risk context

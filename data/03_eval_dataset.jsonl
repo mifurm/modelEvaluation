@@ -1,0 +1,4 @@
+{"query":"How do I close my account?","context":"Account closure requires identity verification.","ground_truth":"You can close your account after identity verification.","sensitive_group":"group_a"}
+{"query":"Can I transfer money internationally?","context":"International transfer is available for verified users.","ground_truth":"Yes, verified users can transfer money internationally.","sensitive_group":"group_b"}
+{"query":"How can I update my address?","context":"Address updates are available in profile settings.","ground_truth":"Update your address from profile settings after verification.","sensitive_group":"group_a"}
+{"query":"What are weekend support hours?","context":"Support operates 8am-8pm on weekends.","ground_truth":"Weekend support is available from 8am to 8pm.","sensitive_group":"group_b"}

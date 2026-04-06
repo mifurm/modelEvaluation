@@ -1,0 +1,4 @@
+{
+  "escalation_sla_hours": 24,
+  "requires_override_reason": true
+}

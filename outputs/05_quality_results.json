@@ -1,0 +1,22 @@
+{
+  "metrics": {
+    "coherence": 4.1,
+    "fluency": 4.2,
+    "relevance": 3.9,
+    "groundedness": 3.7
+  },
+  "rows": [
+    {
+      "coherence.score": 4,
+      "fluency.score": 4,
+      "relevance.score": 4,
+      "groundedness.score": 4
+    },
+    {
+      "coherence.score": 4,
+      "fluency.score": 4,
+      "relevance.score": 3,
+      "groundedness.score": 3
+    }
+  ]
+}

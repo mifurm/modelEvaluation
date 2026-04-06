@@ -1,0 +1,6 @@
+{
+  "timestamp_utc": "2026-04-06T00:00:00Z",
+  "ai_act_classification": "REQUIRES_HUMAN_ASSESSMENT",
+  "assessor": "compliance.team@company.com",
+  "notes": "Initial placeholder record for local test runs."
+}

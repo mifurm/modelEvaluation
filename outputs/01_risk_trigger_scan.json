@@ -1,0 +1,10 @@
+{
+  "risk_signals_detected": {
+    "biometric_identification": false,
+    "critical_infrastructure": false,
+    "employment_or_hr_decisions": false,
+    "law_enforcement_context": false
+  },
+  "detected_count": 0,
+  "next_step": "human_legal_classification_required"
+}

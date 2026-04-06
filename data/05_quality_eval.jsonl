@@ -1,0 +1,2 @@
+{"query":"How do I reset my password?","response":"Use the reset link in account settings.","ground_truth":"Reset your password from account settings using the reset link.","context":"Password reset policy."}
+{"query":"Can I cancel a transfer?","response":"You can cancel pending transfers before processing.","ground_truth":"Pending transfers can be canceled before processing starts.","context":"Transfer cancellation policy."}
