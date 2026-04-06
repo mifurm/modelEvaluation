@@ -214,7 +214,7 @@ See [`datasources.md`](datasources.md) for a curated catalog of 15 external benc
 - **General reasoning**: MMLU, BIG-bench, SuperGLUE, GLUE
 - **Question answering**: SQuAD, MS MARCO, Natural Questions
 - **Bias & fairness**: StereoSet, WinoBias, CrowS-Pairs
-- **Toxicity**: Jigsaw Toxicity, Hatespeech-2020
+- **Toxicity**: Jigsaw Toxicity, HateSpeech-2020
 - **Factuality**: FEVER, OpenAI TruthfulQA
 - **Code generation**: HumanEval, CodeSearchNet
 - **Math reasoning**: GSM-8K, MATH
